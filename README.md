@@ -14,6 +14,7 @@ This project focuses on applying data analytics techniques to the sales domain. 
 - Documentation on analytics methodologies
 - Visualizations and dashboards
 
-ties, please reach out via GitHub.
+## Contact
+For inquiries or collaboration opportunities, please reach out via GitHub.
 
 ---
